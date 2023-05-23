@@ -1,2 +1,8 @@
 # INTRODUCCION-DESARROLLO-DE-SOFTWARE
 INFOGRAFÍA
+
+Daniel Felipe Valero Mejía: 2220231118
+
+Jhanpol Parra Barreto: 2220231100
+
+[ROBOTICA.pdf](https://github.com/DanielValeroMejia/INTRODUCCION-DESARROLLO-DE-SOFTWARE/files/11538207/ROBOTICA.pdf)
